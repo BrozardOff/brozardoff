@@ -49,6 +49,8 @@
 
 <br/>  
 
+
+## Information
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=patrick_officiel&cover_image=true&theme=default&bar_color_cover=true" /></div> 
 
 <br/>  
