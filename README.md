@@ -56,6 +56,7 @@
 <br/>  
 
 I am looking for a developer to collaborate with me on my project 🎓 [BroBot](https://github.com/BrozardOff/brobot) 🤖 To consider a project relaunch and a V2  
+My Discord :『Brozard』#4192
   
 
 <div align="center">
